@@ -1,5 +1,3 @@
-import java.net.URISyntaxException;
-
 public class EntryPoint {
 	
 	EntryPoint() {
